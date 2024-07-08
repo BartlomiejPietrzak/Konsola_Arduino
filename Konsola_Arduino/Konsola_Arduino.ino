@@ -50,7 +50,7 @@ float predXpilki = 1; // predkosc piłki ox
 float predYpilki = 2;  // predkosc piłki oy
 
 int pilkaR = 2; // promien piłki 
-int pilkaGol = 2; // o ile pikseli piłka musi opóścić ekran żeby gol był uznany 
+int pilkaGol = 2; // o ile pikseli piłka musi opuścić ekran żeby gol był uznany 
 
 int stanPrzyciskow[14];
 
